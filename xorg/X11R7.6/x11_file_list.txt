@@ -5,7 +5,7 @@ dri2proto-2.3.tar.bz2                           :  dri2proto-2.3                
 glproto-1.4.12.tar.bz2                          :  glproto-1.4.12                           :
 libpciaccess-0.12.0.tar.bz2                     :  libpciaccess-0.12.0                      :
 libpthread-stubs-0.3.tar.bz2                    :  libpthread-stubs-0.3                     :
-libdrm-2.4.60.tar.bz2                           :  libdrm-2.4.60                            :
+libdrm-2.4.60.tar.gz                            :  libdrm-2.4.60                            :
 damageproto-1.2.1.tar.bz2                       :  damageproto-1.2.1                        :
 makedepend-1.0.3.tar.bz2                        :  makedepend-1.0.3                         :
 libxml2-sources-2.7.8.tar.gz                    :  libxml2-2.7.8                            :
